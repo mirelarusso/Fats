@@ -11,9 +11,9 @@
     }
     body {
     font-family : Helvetica;
-    color : rgb(39, 21, 15);
-    background : url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Download-Free-Beach-Sand-Wallpaper-PIC-WPB004038.jpg") repeat
-    #b6aa8e;
+    color : rgb(17, 6, 2);
+    background : url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Download-Free-Beach-Sand-Wallpaper-PIC-WPB004038.jpg") repeat;
+    filter: opacity(opacity: 90%);
     background-size: auto;
     }
     h1 {
