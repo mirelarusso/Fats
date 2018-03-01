@@ -245,7 +245,7 @@
             display : none;
             text-transform : uppercase;
             font-weight : 400;
-            color : rgba(243, 7, 7, 0.5);
+            color : rgba(85, 15, 15, 0.5);
             }
         .summary p {
         letter-spacing : 0.1em;
@@ -455,19 +455,19 @@
         content : "Put Love in All";
         visibility : visible;
         display : block;
-        color : rgb(29, 22, 22);
+        color : rgb(163, 84, 114);
         letter-spacing : 0.5em;
         font-size : 1.2rem;
         font-weight : normal;
         margin : 0.01em 0 3em;
-        color : rgba(155, 30, 30, 0.4);
+        color : rgba(141, 46, 46, 0.4)4);
         }
         [role="banner"] h2 {
             visibility : hidden;
             display : none;
             text-transform : uppercase;
             font-weight : 400;
-            color : rgba(102, 22, 22, 0.5);
+            color : rgba(206, 108, 108, 0.808);
             }
         .summary p {
         letter-spacing : 0.1em;
@@ -495,7 +495,7 @@
         width : 50%;
         font-size : 1.2rem;
         margin : 0 0 1em;
-        color : rgb(83, 58, 2);
+        color : rgb(85, 61, 9);
         }
         .design-selection li:nth-child(odd) {
         width : 47%;
