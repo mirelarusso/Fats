@@ -13,7 +13,7 @@
     font-family : Helvetica;
     color : rgb(39, 21, 15);
     background : url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Download-Free-Beach-Sand-Wallpaper-PIC-WPB004038.jpg") no-repeat
-    #d4cbb6;
+    #b6aa8e;
     background-size: auto;
     }
     h1 {
@@ -44,7 +44,7 @@
        
        a {
         text-decoration : none;
-        color : #c74821;
+        color : #5e1626;
         position : relative;
         transition : all 0.25s linear;
         }
